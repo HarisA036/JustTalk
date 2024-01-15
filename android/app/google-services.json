@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "488765297274",
+    "project_id": "justtak-7195b",
+    "storage_bucket": "justtak-7195b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:488765297274:android:6da9ec0e2eb131cef261c3",
+        "android_client_info": {
+          "package_name": "com.justtalk"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtif7hJJc9vob7qMeXaVSx9MMweWPxTv8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
